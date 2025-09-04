@@ -26,4 +26,12 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ---
 
+## Master & Bachelor thesis
+
+Stijn Geukes (UvA), thesis title: "Diurnal and spring-summer soundscape dynamics in Dutch habitats" [In progress]
+
+[Nedland, S. A., Sandberg, H., & Johnsen, E. (2025). Audiograb: Connecting an acoustic wildlife monitoring device to the 4G network (Bachelor's thesis, NTNU).](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3208598): The project developed a prototype device to collect data from wildlife sensors, compress it, and transmit it over 4G, using a custom PCB with an STM32 microcontroller, Raspberry Pi module, and LTE modem. While a fully functional prototype wasn’t completed, the hardware, SD-card emulation framework, and initial Python software provide a solid foundation for further development.
+
+---
+
 *Interested in collaborating on research or accessing our publications? Contact our [research team](/team/).*

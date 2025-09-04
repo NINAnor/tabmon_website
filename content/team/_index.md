@@ -18,7 +18,7 @@ TABMON brings together Europe's leading experts in **acoustic ecology**, **artif
 
 <div class="team-section">
 <div class="team-member">
-<img src="/images/ben.png" alt="Ben Cretois" class="member-photo">
+<img src="/images/ben.png" alt="Benjamin Cretois" class="member-photo">
 <div class="member-info">
 <h4>Benjamin Cretois</h4>
 <p><strong>Principal Investigator & Project Coordinator</strong><br>
@@ -36,7 +36,7 @@ Expert in biodiversity conservation and ecological research methods.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/julia.png" alt="Julia Reisser" class="member-photo">
+<img src="/images/julia.png" alt="Julia Wiel" class="member-photo">
 <div class="member-info">
 <h4>Julia Reisser</h4>
 <p><strong>Research Scientist</strong><br>
@@ -80,7 +80,7 @@ Head of Theoretical & Computational Ecology, expert in biodiversity modeling and
 </div>
 
 <div class="team-member">
-<img src="/images/cynthia.jpg" alt="Cynthia Tedore" class="member-photo">
+<img src="/images/cynthia.jpg" alt="Cynthia Barile" class="member-photo">
 <div class="member-info">
 <h4>Cynthia Tedore</h4>
 <p><strong>Postdoctoral researcher</strong><br>
@@ -102,7 +102,7 @@ Leading expert in bioacoustics and AI for environmental monitoring.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/corentin.jpeg" alt="Corentin Nelias" class="member-photo">
+<img src="/images/corentin.jpeg" alt="Corentin Bernard" class="member-photo">
 <div class="member-info">
 <h4>Corentin Nelias</h4>
 <p><strong>Postdoctoral researcher</strong><br>
@@ -133,7 +133,7 @@ Expert in landscape ecology and biodiversity monitoring in forest ecosystems.</p
 </div>
 
 <div class="team-member">
-<img src="/images/gerard.jpeg" alt="Gerard Gorchs" class="member-photo">
+<img src="/images/gerard.jpeg" alt="Gerard Bota" class="member-photo">
 <div class="member-info">
 <h4>Gerard Bota</h4>
 <p><strong>Research Scientist</strong><br>
@@ -151,7 +151,7 @@ Expert in ornithology and acoustic ecology research.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/dani.jpg" alt="Dani Villanueva-Rivera" class="member-photo">
+<img src="/images/dani.jpg" alt="Dani Villero" class="member-photo">
 <div class="member-info">
 <h4>Dani Villero</h4>
 <p><strong>Research Scientist</strong><br>
