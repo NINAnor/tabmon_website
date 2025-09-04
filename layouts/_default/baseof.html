@@ -458,7 +458,12 @@
 
 <body>
     <header>
-        <h1>{{ .Site.Title }}</h1>
+        <div style="margin-top: -1rem; margin-bottom: 1.5rem;">
+            <h1 style="margin-bottom: 0.2rem;">{{ .Site.Title }}</h1>
+            <div
+                style="font-size: 1.5em; font-weight: 700; margin-top: 0; margin-bottom: 0; color: white !important; border: none !important; background: none !important;">
+                Towards a Transnational Acoustic Biodiversity Monitoring Network</div>
+        </div>
         {{ with .Site.Params.description }}
         <p>{{ . }}</p>
         {{ end }}

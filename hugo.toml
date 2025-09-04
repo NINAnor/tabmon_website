@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en"
-title = "TABMON — Towards a Transnational Acoustic Biodiversity Monitoring Network"
+title = "TABMON"
 paginate = 10
 enableRobotsTXT = true
 defaultContentLanguage = "en"
@@ -16,7 +16,7 @@ disableKinds = ["RSS"]
     lineNos = true
 
 [params]
-  description = "Building Europe's largest acoustic biodiversity monitoring network using AI-powered autonomous sensors to track species and ecosystems across diverse landscapes."
+  description = "Building Europe's largest acoustic biodiversity monitoring network autonomous acoustic sensors to study birds across diverse landscapes and seasons."
   author = "TABMON Consortium"
   keywords = ["biodiversity", "acoustic monitoring", "AI", "Europe", "conservation", "soundscape ecology"]
   ShowReadingTime = true

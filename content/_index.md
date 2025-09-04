@@ -15,74 +15,33 @@ Deploy **autonomous acoustic sensors** across a wide latitudinal gradient in Eur
 
 ---
 
-## 🚀 Key Features
+## 🚀 TABMON in a few numbers
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
-**🔬 AI-Powered Analysis**  
+**🔬 100 devices deployed**  
 From raw audio to species detections, community metrics, and EBV-aligned indicators, with an emphasis on reproducible workflows.
 
-**🌐 Multi-country Coverage**  
-Initial deployments span **Norway, the Netherlands, France, and Spain**, representing diverse European habitats.
+**🌐 15 TeraBytes of high quality acoustic data**  
+Data spans **Norway, the Netherlands, France, and Spain**, representing diverse European habitats.
 
-**📊 Open Methods**  
-Transparent protocols and open-source code **where licences and sensitivities allow**, following FAIR principles.
-
-**⚡ Near Real-Time Capabilities**  
-Selected sites use low-power devices that support near real-time acoustic streaming/processing to track change more quickly.
+**📊 A team of 14 experts**  
+Our team is composed of recognized researchers specialised in different areas, from AI to field deployment and ecology.
 
 </div>
-
----
-
-## 📍 Quick Navigation
-
-### [📖 About the Project](/about/)
-Objectives, background, and why acoustic monitoring scales across borders.
-
-### [🔬 Methods & Work Packages](/methods/)
-Deployment strategy and AI pipelines from audio to indicators.
-
-### [📊 Resources & Dashboards](/resources/)
-Figures, maps, and releases as they mature.
-
-### [💾 Data & Open Code](/data/)
-Links to public repositories and data releases (open where possible).
-
-### [📚 Publications](/publications/)
-Peer-reviewed papers, preprints, and reports.
-
-### [👥 Meet the Team](/team/)
-Consortium institutions and contacts.
-
-### [📰 Latest News](/news/)
-Milestones, deployments, findings, and events.
 
 ---
 
 ## 🏛️ Project Leadership
 
 > **Coordinator:** Norwegian Institute for Nature Research (NINA)  
-> **Project leads:** Benjamin Cretois & Carolyn Rosten (NINA)  
+> **Project leads:** [Benjamin Cretois](/team/) & [Carolyn Rosten](/team/) (NINA)  
 > **Funding:** Biodiversa+ (with national agencies)  
 > **Duration:** **2024–2027**  
 > **Countries (current focus):** Norway, Netherlands, France, Spain  
-> **Selected partners:** IBED (University of Amsterdam), Tilburg University, Naturalis, Statistics Netherlands (CBS), Sovon, CTFC, Université de Toulon/LIS, and others.
+> **Selected partners:** University of Amsterdam, Tilburg University, Naturalis, Statistics Netherlands (CBS), Sovon, CTFC, Université de Toulon/LIS
 
 ---
 
-## 🎵 The Sound of Biodiversity
-
-*"Every forest, grassland, and wetland has a distinct acoustic signature. By listening at scale and over time, we can quantify change and support better conservation decisions."*
-
-**Start here:** [About](/about/) → then check the latest [Resources](/resources/).
-
----
-
-<div style="text-align: center; margin: 30px 0; padding: 20px; background: rgba(0,0,0,0.05); border-radius: 8px;">
-
-### 🔔 Stay Connected
-
-[📧 Email](mailto:firmapost@nina.no) • [🐙 GitHub](https://github.com/NINAnor/TABMON) • [📰 News](/news/)
 
 </div>

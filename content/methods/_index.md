@@ -18,6 +18,8 @@ TABMON combines **autonomous acoustic sensing**, **AI-based analysis**, and **st
 
 WP1 designs and operates the field network. Sites are chosen along key biogeographic and land-use gradients to capture meaningful spatial and temporal variation. Devices are provisioned to consistent specifications and deployed with clear field protocols so recordings are comparable across partners. Quality assurance and control are applied from the moment audio is captured—covering device health, clock drift, gain settings, and basic signal diagnostics. Data are transferred from the cloud to secure archival storage (NIRD) on a managed schedule, ensuring traceability from raw audio to downstream analyses.
 
+In WP1 we are also working towards a standard Passive Acoustic Monitoring (PAM) metadata standard to make acoustic data easily shareable. [More information here](https://wildlabs.net/discussion/safe-and-sound-standard-bioacoustic-data).
+
 ### 🤖 WP2 — AI to Essential Biodiversity Variables
 
 WP2 turns audio into ecological information. Model inference pipelines detect species and characterise community patterns; embeddings and acoustic features support both supervised and semi-supervised analyses. Uncertainty is treated explicitly: confidence from detectors/classifiers is carried forward and reflected in all derived metrics. Outputs are aggregated into indicators compatible with **Essential Biodiversity Variables (EBVs)**, making results comparable across sites and years and suitable for integration with existing monitoring schemes.
@@ -40,7 +42,7 @@ TABMON uses cost-effective **real-time acoustic recorders (Bugg)** that can stre
 
 ### 🔄 Data Pipeline (Simplified)
 
-Audio is streamed from devices to the cloud and mirrored to **NIRD** for durable archiving. Processing runs in batch or near real time, depending on connectivity and use case, and covers detection, classification, and embedding generation. Post-processing aggregates events into site- and time-window summaries, applies quality checks, and calculates indicators. The resulting datasets feed dashboards and public releases, with provenance linking indicators back to raw audio and model versions.
+Audio is streamed from devices to the cloud and mirrored to **[NIRD](https://documentation.sigma2.no/files_storage/nird_lmd.html)** for durable archiving. Processing runs in batch or near real time, depending on connectivity and use case, and covers detection, classification, and embedding generation. Post-processing aggregates events into site- and time-window summaries, applies quality checks, and calculates indicators. The resulting datasets feed dashboards and public releases, with provenance linking indicators back to raw audio and model versions.
 
 ---
 

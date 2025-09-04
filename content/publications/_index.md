@@ -20,6 +20,8 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ## 🗣️ Talks and selected press
 
+**Standardization of Passive Acoustic Monitoring with CamTrap DP**: [Julia Wiel](/team/) gave an introduction to our work on working towards a common standard for Passive Acoustic Monitoring (PAM). The talk is available on [Youtube](https://www.youtube.com/watch?v=Rpw3lFxD-Q4)
+
 **Science-Policy Forum organised by Biodiversa+**: [Benjamin Cretois](/team/) has been invited panel discussion member for the Science-Policy Forum on "how to strengthen and harmonize biodiversity monitoring across scales in support of the Global Biodiversity Framework" in Tallin, 16th of April 2024. More information [here](https://www.biodiversa.eu/2024/04/24/science-policy-forum-monitoring/)
 
 **Science Fair for biodiversity monitoring**: [Benjamin Cretois](/team/) has been invited invited Panel Discussion member for the topical panel session on Bioacoustics at the Science Fair for biodiversity monitoring in Casa Convalenscèna, Hospital Sant Pau Barcelona (Catalonia) organized by Biodiversa+. More information [here](https://www.biodiversa.eu/wp-content/uploads/2025/06/SLIDES_Barcelona-Science-Fair.pdf).
