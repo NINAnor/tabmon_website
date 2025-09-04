@@ -1,0 +1,206 @@
+{{ define "main" }}
+<article class="section-page">
+    <header class="section-header">
+        <h1>{{ .Title }}</h1>
+        {{ if .Description }}
+        <p class="section-description">{{ .Description }}</p>
+        {{ end }}
+    </header>
+
+    <div class="section-content">
+        {{ .Content }}
+    </div>
+
+    {{ if .Pages }}
+    <section class="subsections">
+        <h2>🗂️ Explore This Section</h2>
+        <div class="subsection-grid">
+            {{ range .Pages }}
+            <div class="subsection-card">
+                <div class="card-icon">
+                    {{ if eq .Section "about" }}📖
+                    {{ else if eq .Section "methods" }}🔬
+                    {{ else if eq .Section "results" }}📊
+                    {{ else if eq .Section "data" }}💾
+                    {{ else if eq .Section "publications" }}📚
+                    {{ else if eq .Section "team" }}👥
+                    {{ else if eq .Section "news" }}📰
+                    {{ else }}📄
+                    {{ end }}
+                </div>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                {{ if .Description }}
+                <p class="card-desc">{{ .Description }}</p>
+                {{ else if .Summary }}
+                <p class="card-desc">{{ .Summary | truncate 120 }}</p>
+                {{ end }}
+                {{ if .Date }}
+                <p class="card-date">{{ .Date.Format "Jan 2, 2006" }}</p>
+                {{ end }}
+                <div class="card-action">
+                    <a href="{{ .RelPermalink }}" class="action-link">
+                        Explore →
+                    </a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+</article>
+
+<style>
+    .section-page {
+        max-width: none;
+    }
+
+    .section-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        padding-bottom: 2rem;
+        border-bottom: 2px solid var(--border-color);
+        position: relative;
+    }
+
+    .section-header::after {
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80px;
+        height: 4px;
+        background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+        border-radius: 2px;
+    }
+
+    .section-description {
+        font-size: 1.3rem;
+        color: var(--text-light);
+        max-width: 900px;
+        margin: 1.5rem auto 0;
+        font-style: italic;
+        line-height: 1.6;
+    }
+
+    .section-content {
+        margin-bottom: 3rem;
+    }
+
+    .subsection-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+
+    .subsection-card {
+        background: linear-gradient(145deg, var(--bg-primary), var(--bg-secondary));
+        border: 1px solid var(--border-color);
+        border-radius: var(--border-radius);
+        padding: 2rem;
+        box-shadow: var(--shadow-md);
+        transition: var(--transition);
+        position: relative;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .subsection-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    }
+
+    .subsection-card:hover {
+        transform: translateY(-8px) scale(1.02);
+        box-shadow: var(--shadow-lg);
+        border-color: var(--primary-color);
+    }
+
+    .card-icon {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+        display: block;
+        filter: grayscale(0.3);
+        transition: var(--transition);
+    }
+
+    .subsection-card:hover .card-icon {
+        filter: grayscale(0);
+        transform: scale(1.1);
+    }
+
+    .subsection-card h3 {
+        margin: 0 0 1rem 0;
+        font-size: 1.4rem;
+        line-height: 1.3;
+    }
+
+    .subsection-card h3 a {
+        color: var(--text-primary);
+        text-decoration: none;
+        border-bottom: none;
+    }
+
+    .subsection-card h3 a:hover {
+        color: var(--primary-color);
+    }
+
+    .card-desc {
+        color: var(--text-secondary);
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
+        font-size: 0.95rem;
+    }
+
+    .card-date {
+        color: var(--text-light);
+        font-size: 0.85rem;
+        margin-bottom: 1.5rem;
+        font-weight: 500;
+    }
+
+    .card-action {
+        margin-top: auto;
+    }
+
+    .action-link {
+        color: var(--primary-color);
+        font-weight: 600;
+        text-decoration: none;
+        padding: 0.75rem 1.5rem;
+        border-radius: 8px;
+        border: 2px solid var(--primary-color);
+        transition: var(--transition);
+        display: inline-block;
+        border-bottom: 2px solid var(--primary-color) !important;
+    }
+
+    .action-link:hover {
+        background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+        color: white;
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-md);
+    }
+
+    @media (max-width: 768px) {
+        .subsection-grid {
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+        }
+
+        .subsection-card {
+            padding: 1.5rem;
+        }
+
+        .card-icon {
+            font-size: 2.5rem;
+        }
+    }
+</style>
+{{ end }}

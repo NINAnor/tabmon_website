@@ -1,0 +1,107 @@
+baseURL = "/"
+languageCode = "en"
+title = "TABMON — Towards a Transnational Acoustic Biodiversity Monitoring Network"
+paginate = 10
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+enableEmoji = true
+disableKinds = ["RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = true
+
+[params]
+  description = "Building Europe's largest acoustic biodiversity monitoring network using AI-powered autonomous sensors to track species and ecosystems across diverse landscapes."
+  author = "TABMON Consortium"
+  keywords = ["biodiversity", "acoustic monitoring", "AI", "Europe", "conservation", "soundscape ecology"]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  DateFormat = "January 2, 2006"
+  
+  # Enhanced visual features
+  cover.linkFullImages = true
+  fuseOpts.isCaseSensitive = false
+  fuseOpts.shouldSort = true
+  fuseOpts.location = 0
+  fuseOpts.distance = 1000
+  fuseOpts.threshold = 0.4
+
+  [params.homeInfoParams]
+    Title = "🎵 TABMON"
+    Content = """
+    Towards a **transnational acoustic biodiversity monitoring network** across Europe.
+    
+    🔬 **AI-powered soundscape analysis** • 🌍 **Pan-European coverage** • 📊 **Open science approach**
+    
+    *Building the future of biodiversity monitoring through innovative acoustic sensing technology.*
+    """
+  
+  # Social media and external links
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/NINAnor/TABMON"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:firmapost@nina.no"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+# Enhanced navigation menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "methods"
+    name = "Methods"
+    url = "/methods/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "results"
+    name = "Results"
+    url = "/results/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "data"
+    name = "Data & Code"
+    url = "/data/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "team"
+    name = "Team"
+    url = "/team/"
+    weight = 60
+
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/news/"
+    weight = 70
