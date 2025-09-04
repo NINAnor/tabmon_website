@@ -45,4 +45,4 @@ Our network spans four key biogeographic regions:
 
 ---
 
-*Ready to dive deeper? 🔍 Explore our [methods and technical approach](/methods/) or check out the [latest results](/results/) from our monitoring network.*
+*Ready to dive deeper? 🔍 Explore our [methods and technical approach](/methods/) or check out the [latest resources](/resources/) from our monitoring network.*

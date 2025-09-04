@@ -77,31 +77,25 @@ disableKinds = ["RSS"]
     weight = 20
 
   [[menu.main]]
-    identifier = "results"
-    name = "Results"
-    url = "/results/"
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
     weight = 30
-
-  [[menu.main]]
-    identifier = "data"
-    name = "Data & Code"
-    url = "/data/"
-    weight = 40
 
   [[menu.main]]
     identifier = "publications"
     name = "Publications"
     url = "/publications/"
-    weight = 50
+    weight = 40
 
   [[menu.main]]
     identifier = "team"
     name = "Team"
     url = "/team/"
-    weight = 60
+    weight = 50
 
   [[menu.main]]
     identifier = "news"
     name = "News"
     url = "/news/"
-    weight = 70
+    weight = 60

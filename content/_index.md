@@ -43,7 +43,7 @@ Objectives, background, and why acoustic monitoring scales across borders.
 ### [🔬 Methods & Work Packages](/methods/)
 Deployment strategy and AI pipelines from audio to indicators.
 
-### [📊 Results & Dashboards](/results/)
+### [📊 Resources & Dashboards](/resources/)
 Figures, maps, and releases as they mature.
 
 ### [💾 Data & Open Code](/data/)
@@ -75,7 +75,7 @@ Milestones, deployments, findings, and events.
 
 *"Every forest, grassland, and wetland has a distinct acoustic signature. By listening at scale and over time, we can quantify change and support better conservation decisions."*
 
-**Start here:** [About](/about/) → then check the latest [Results](/results/).
+**Start here:** [About](/about/) → then check the latest [Resources](/resources/).
 
 ---
 

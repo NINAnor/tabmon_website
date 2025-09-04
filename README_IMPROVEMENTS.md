@@ -85,7 +85,7 @@ The website has been completely redesigned and enhanced with:
 - Multiple contact methods and professional links
 - Clear organizational hierarchy
 
-### 6. Results Page Interactive Dashboard (`content/results/_index.md`)
+### 6. Resources Page Interactive Dashboard (`content/resources/_index.md`)
 
 **Live Monitoring Features:**
 - Real-time network statistics and status
@@ -215,7 +215,7 @@ static/
 - **About**: 500% expansion with professional structure
 - **Methods**: Complete technical documentation
 - **Team**: Professional consortium presentation
-- **Results**: Interactive dashboard design
+- **Resources**: Interactive dashboard design
 - **Data**: Comprehensive open science portal
 - **Publications**: Academic excellence showcase
 - **News**: Dynamic content management system

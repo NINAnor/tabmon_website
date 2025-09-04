@@ -1,24 +1,5 @@
 {{ define "main" }}
 <article class="single-page">
-    <header class="article-header">
-        <h1>{{ .Title }}</h1>
-        {{ if .Description }}
-        <p class="article-description">{{ .Description }}</p>
-        {{ end }}
-        {{ if .Date }}
-        <div class="article-meta">
-            <span class="meta-item">
-                📅 Last updated: {{ .Date.Format "January 2, 2006" }}
-            </span>
-            {{ if .ReadingTime }}
-            <span class="meta-item">
-                ⏱️ {{ .ReadingTime }} min read
-            </span>
-            {{ end }}
-        </div>
-        {{ end }}
-    </header>
-
     <div class="article-content">
         {{ .Content }}
     </div>

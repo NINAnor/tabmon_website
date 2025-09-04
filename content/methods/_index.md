@@ -22,6 +22,10 @@ WP1 designs and operates the field network. Sites are chosen along key biogeogra
 
 WP2 turns audio into ecological information. Model inference pipelines detect species and characterise community patterns; embeddings and acoustic features support both supervised and semi-supervised analyses. Uncertainty is treated explicitly: confidence from detectors/classifiers is carried forward and reflected in all derived metrics. Outputs are aggregated into indicators compatible with **Essential Biodiversity Variables (EBVs)**, making results comparable across sites and years and suitable for integration with existing monitoring schemes.
 
+<img src="/figures/active_learning.png" alt="Active Learning Pipeline" style="width: 60%; max-width: 500px; height: auto; display: block; margin: 1rem auto;">
+
+*Figure: Active learning pipeline for species detection and classification in acoustic monitoring data*
+
 ### 🏛️ WP3 — Policy Integration & Outreach
 
 WP3 focuses on making outputs usable. It assembles synthesis products and technical reports that explain methods, assumptions, and limitations. Interactive dashboards present deployments, data coverage, and headline indicators with enough context to interpret trends. The team engages with competent authorities and programme owners to align indicators with national reporting requirements and to ensure interoperability with ongoing monitoring.
@@ -58,4 +62,4 @@ Code, configurations, and model cards are versioned in public repositories where
 
 ---
 
-*Interested in the technical details? 💻 Check out our [open code repositories](/data/) or explore the [latest results](/results/) from our analysis pipeline.*
+*Interested in the technical details? 💻 Check out our [resources and code repositories](/resources/) or explore the [dashboard and technical documentation](/resources/) from our analysis pipeline.*

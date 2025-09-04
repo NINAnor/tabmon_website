@@ -1,12 +1,5 @@
 {{ define "main" }}
 <article class="section-page">
-    <header class="section-header">
-        <h1>{{ .Title }}</h1>
-        {{ if .Description }}
-        <p class="section-description">{{ .Description }}</p>
-        {{ end }}
-    </header>
-
     <div class="section-content">
         {{ .Content }}
     </div>
