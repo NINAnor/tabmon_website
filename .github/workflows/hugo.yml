@@ -1,6 +1,3 @@
-
-### `.github/workflows/hugo.yml`
-```yaml
 name: Deploy Hugo site to Pages
 
 on:
@@ -30,7 +27,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.126.1"
+          hugo-version: "0.111.3"
           extended: true
 
       - name: Build
@@ -42,6 +39,9 @@ jobs:
           path: ./public
 
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     needs: build
     runs-on: ubuntu-latest
     steps:
