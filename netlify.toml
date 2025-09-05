@@ -1,3 +1,4 @@
+# TABMON Netlify configuration
 [build]
   publish = "public"
   command = "hugo --gc --minify"
