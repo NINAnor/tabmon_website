@@ -24,7 +24,7 @@ In WP1 we are also working towards a standard Passive Acoustic Monitoring (PAM) 
 
 WP2 turns audio into ecological information. Model inference pipelines detect species and characterise community patterns; embeddings and acoustic features support both supervised and semi-supervised analyses. Uncertainty is treated explicitly: confidence from detectors/classifiers is carried forward and reflected in all derived metrics. Outputs are aggregated into indicators compatible with **Essential Biodiversity Variables (EBVs)**, making results comparable across sites and years and suitable for integration with existing monitoring schemes.
 
-<img src="/figures/active_learning.png" alt="Active Learning Pipeline" style="width: 60%; max-width: 500px; height: auto; display: block; margin: 1rem auto;">
+<img src="../figures/active_learning.png" alt="Active Learning Pipeline" style="width: 60%; max-width: 500px; height: auto; display: block; margin: 1rem auto;">
 
 *Figure: Active learning pipeline for species detection and classification in acoustic monitoring data*
 

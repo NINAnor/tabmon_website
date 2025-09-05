@@ -7,7 +7,7 @@ ShowToc: true
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-<img src="/figures/figure_grant.png" alt="TABMON Grant Overview" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="../figures/figure_grant.png" alt="TABMON Grant Overview" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 ## 🌍 Project Overview

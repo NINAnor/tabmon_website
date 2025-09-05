@@ -18,7 +18,7 @@ TABMON brings together Europe's leading experts in **acoustic ecology**, **artif
 
 <div class="team-section">
 <div class="team-member">
-<img src="/images/ben.png" alt="Benjamin Cretois" class="member-photo">
+<img src="../images/ben.png" alt="Benjamin Cretois" class="member-photo">
 <div class="member-info">
 <h4>Benjamin Cretois</h4>
 <p><strong>Principal Investigator & Project Coordinator</strong><br>
@@ -27,7 +27,7 @@ Research Scientist specializing in bioacoustics and AI applications for biodiver
 </div>
 
 <div class="team-member">
-<img src="/images/carolyn.png" alt="Carolyn Rosten" class="member-photo">
+<img src="../images/carolyn.png" alt="Carolyn Rosten" class="member-photo">
 <div class="member-info">
 <h4>Carolyn Rosten</h4>
 <p><strong>Research Scientist</strong><br>
@@ -36,7 +36,7 @@ Expert in biodiversity conservation and ecological research methods.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/julia.png" alt="Julia Wiel" class="member-photo">
+<img src="../images/julia.png" alt="Julia Wiel" class="member-photo">
 <div class="member-info">
 <h4>Julia Reisser</h4>
 <p><strong>Research Scientist</strong><br>
@@ -49,7 +49,7 @@ Specialist in ecological data analysis and biodiversity monitoring techniques.</
 
 <div class="team-section">
 <div class="team-member">
-<img src="/images/benmcewen.jpeg" alt="Ben McEwen" class="member-photo">
+<img src="../images/benmcewen.jpeg" alt="Ben McEwen" class="member-photo">
 <div class="member-info">
 <h4>Ben McEwen</h4>
 <p><strong>Postdoctoral researcher</strong><br>
@@ -58,7 +58,7 @@ Expert in biodiversity informatics and museum collections data integration.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/dan.jpeg" alt="Dan Stowell" class="member-photo">
+<img src="../images/dan.jpeg" alt="Dan Stowell" class="member-photo">
 <div class="member-info">
 <h4>Dan Stowell</h4>
 <p><strong>Senior Research Scientist</strong><br>
@@ -71,7 +71,7 @@ Expert in computational bioacoustics and machine learning for wildlife monitorin
 
 <div class="team-section">
 <div class="team-member">
-<img src="/images/daniel.jpg" alt="Daniel Kissling" class="member-photo">
+<img src="../images/daniel.jpg" alt="Daniel Kissling" class="member-photo">
 <div class="member-info">
 <h4>Daniel Kissling</h4>
 <p><strong>Professor</strong><br>
@@ -80,7 +80,7 @@ Head of Theoretical & Computational Ecology, expert in biodiversity modeling and
 </div>
 
 <div class="team-member">
-<img src="/images/cynthia.jpg" alt="Cynthia Barile" class="member-photo">
+<img src="../images/cynthia.jpg" alt="Cynthia Barile" class="member-photo">
 <div class="member-info">
 <h4>Cynthia Tedore</h4>
 <p><strong>Postdoctoral researcher</strong><br>
@@ -93,7 +93,7 @@ Specialist in computational ecology and biodiversity data analysis.</p>
 
 <div class="team-section">
 <div class="team-member">
-<img src="/images/herve.jpg" alt="Hervé Glotin" class="member-photo">
+<img src="../images/herve.jpg" alt="Hervé Glotin" class="member-photo">
 <div class="member-info">
 <h4>Hervé Glotin</h4>
 <p><strong>Professor</strong><br>
@@ -102,7 +102,7 @@ Leading expert in bioacoustics and AI for environmental monitoring.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/corentin.jpeg" alt="Corentin Bernard" class="member-photo">
+<img src="../images/corentin.jpeg" alt="Corentin Bernard" class="member-photo">
 <div class="member-info">
 <h4>Corentin Nelias</h4>
 <p><strong>Postdoctoral researcher</strong><br>
@@ -111,7 +111,7 @@ Specialist in acoustic signal processing and machine learning algorithms.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/ricard.jpg" alt="Ricard Marxer" class="member-photo">
+<img src="../images/ricard.jpg" alt="Ricard Marxer" class="member-photo">
 <div class="member-info">
 <h4>Ricard Marxer</h4>
 <p><strong>Associate Professor</strong><br>
@@ -124,7 +124,7 @@ Expert in audio signal processing and computational methods for bioacoustics.</p
 
 <div class="team-section">
 <div class="team-member">
-<img src="/images/lluis.jpg" alt="Lluís Brotons" class="member-photo">
+<img src="../images/lluis.jpg" alt="Lluís Brotons" class="member-photo">
 <div class="member-info">
 <h4>Lluís Brotons</h4>
 <p><strong>Senior Research Scientist</strong><br>
@@ -133,7 +133,7 @@ Expert in landscape ecology and biodiversity monitoring in forest ecosystems.</p
 </div>
 
 <div class="team-member">
-<img src="/images/gerard.jpeg" alt="Gerard Bota" class="member-photo">
+<img src="../images/gerard.jpeg" alt="Gerard Bota" class="member-photo">
 <div class="member-info">
 <h4>Gerard Bota</h4>
 <p><strong>Research Scientist</strong><br>
@@ -142,7 +142,7 @@ Specialist in forest ecology and acoustic monitoring applications.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/cristian.jpg" alt="Cristian Pérez-Granados" class="member-photo">
+<img src="../images/cristian.jpg" alt="Cristian Pérez-Granados" class="member-photo">
 <div class="member-info">
 <h4>Cristian Pérez-Granados</h4>
 <p><strong>Research Scientist</strong><br>
@@ -151,7 +151,7 @@ Expert in ornithology and acoustic ecology research.</p>
 </div>
 
 <div class="team-member">
-<img src="/images/dani.jpg" alt="Dani Villero" class="member-photo">
+<img src="../images/dani.jpg" alt="Dani Villero" class="member-photo">
 <div class="member-info">
 <h4>Dani Villero</h4>
 <p><strong>Research Scientist</strong><br>

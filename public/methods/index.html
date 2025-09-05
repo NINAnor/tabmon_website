@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Methods &amp; Technical Approach - TABMON — Towards a Transnational Acoustic Biodiversity Monitoring Network</title>
+    <title>Methods &amp; Technical Approach - TABMON</title>
     <meta name="description" content="Detailed methodology, work packages, and technical workflows for TABMON&#39;s acoustic biodiversity monitoring network">
 
     
@@ -67,7 +67,7 @@
             background-image: url('/figures/tabmon_logo.png');
             background-repeat: no-repeat;
             background-position: center 30%;
-            background-size: 70%;
+            background-size: 110%;
             background-attachment: fixed;
             opacity: 0.08;
             pointer-events: none;
@@ -458,26 +458,31 @@
 
 <body>
     <header>
-        <h1>TABMON — Towards a Transnational Acoustic Biodiversity Monitoring Network</h1>
+        <div style="margin-top: -1rem; margin-bottom: 1.5rem;">
+            <h1 style="margin-bottom: 0.2rem;">TABMON</h1>
+            <div
+                style="font-size: 1.5em; font-weight: 700; margin-top: 0; margin-bottom: 0; color: white !important; border: none !important; background: none !important;">
+                Towards a Transnational Acoustic Biodiversity Monitoring Network</div>
+        </div>
         
-        <p>Building Europe&#39;s largest acoustic biodiversity monitoring network using AI-powered autonomous sensors to track species and ecosystems across diverse landscapes.</p>
+        <p>Building Europe&#39;s largest acoustic biodiversity monitoring network autonomous acoustic sensors to study birds across diverse landscapes and seasons.</p>
         
     </header>
 
     <nav>
         <ul>
             
-            <li><a href="/about/">About</a></li>
+            <li><a href="/tabmon_website/about/">About</a></li>
             
-            <li><a href="/methods/">Methods</a></li>
+            <li><a href="/tabmon_website/methods/">Methods</a></li>
             
-            <li><a href="/resources/">Resources</a></li>
+            <li><a href="/tabmon_website/resources/">Resources</a></li>
             
-            <li><a href="/publications/">Publications</a></li>
+            <li><a href="/tabmon_website/publications/">Publications</a></li>
             
-            <li><a href="/team/">Team</a></li>
+            <li><a href="/tabmon_website/team/">Team</a></li>
             
-            <li><a href="/news/">News</a></li>
+            <li><a href="/tabmon_website/news/">News</a></li>
             
         </ul>
     </nav>
@@ -486,17 +491,17 @@
         
 <article class="section-page">
     <div class="section-content">
-        <p>DEBUG: Content length: 5674</p>
-        <p>DEBUG: Title: Methods &amp; Technical Approach</p>
-        <p>DEBUG: Raw content below:</p>
         <h2 id="-technical-overview">🔬 Technical Overview</h2>
 <p>TABMON combines <strong>autonomous acoustic sensing</strong>, <strong>AI-based analysis</strong>, and <strong>standardised ecological workflows</strong> to turn soundscapes into comparable biodiversity indicators across countries. The framework covers everything from site selection and device operations to data logistics, model inference, uncertainty handling, and indicator reporting aligned with policy needs.</p>
 <hr>
 <h2 id="-work-packages">📦 Work Packages</h2>
 <h3 id="-wp1--network-deployment--data-logistics">🌐 WP1 — Network Deployment &amp; Data Logistics</h3>
 <p>WP1 designs and operates the field network. Sites are chosen along key biogeographic and land-use gradients to capture meaningful spatial and temporal variation. Devices are provisioned to consistent specifications and deployed with clear field protocols so recordings are comparable across partners. Quality assurance and control are applied from the moment audio is captured—covering device health, clock drift, gain settings, and basic signal diagnostics. Data are transferred from the cloud to secure archival storage (NIRD) on a managed schedule, ensuring traceability from raw audio to downstream analyses.</p>
+<p>In WP1 we are also working towards a standard Passive Acoustic Monitoring (PAM) metadata standard to make acoustic data easily shareable. <a href="https://wildlabs.net/discussion/safe-and-sound-standard-bioacoustic-data">More information here</a>.</p>
 <h3 id="-wp2--ai-to-essential-biodiversity-variables">🤖 WP2 — AI to Essential Biodiversity Variables</h3>
 <p>WP2 turns audio into ecological information. Model inference pipelines detect species and characterise community patterns; embeddings and acoustic features support both supervised and semi-supervised analyses. Uncertainty is treated explicitly: confidence from detectors/classifiers is carried forward and reflected in all derived metrics. Outputs are aggregated into indicators compatible with <strong>Essential Biodiversity Variables (EBVs)</strong>, making results comparable across sites and years and suitable for integration with existing monitoring schemes.</p>
+<img src="../figures/active_learning.png" alt="Active Learning Pipeline" style="width: 60%; max-width: 500px; height: auto; display: block; margin: 1rem auto;">
+<p><em>Figure: Active learning pipeline for species detection and classification in acoustic monitoring data</em></p>
 <h3 id="-wp3--policy-integration--outreach">🏛️ WP3 — Policy Integration &amp; Outreach</h3>
 <p>WP3 focuses on making outputs usable. It assembles synthesis products and technical reports that explain methods, assumptions, and limitations. Interactive dashboards present deployments, data coverage, and headline indicators with enough context to interpret trends. The team engages with competent authorities and programme owners to align indicators with national reporting requirements and to ensure interoperability with ongoing monitoring.</p>
 <hr>
@@ -504,7 +509,7 @@
 <h3 id="-hardware-infrastructure">📡 Hardware Infrastructure</h3>
 <p>TABMON uses cost-effective <strong>real-time acoustic recorders (Bugg)</strong> that can stream audio over mobile networks to the cloud. The units support higher-quality external microphones where needed and can operate at higher sampling rates for taxa such as bats and insects. The network is designed for scale, with an initial target of roughly <strong>100 devices</strong> distributed across participating countries. Power strategies include solar-assisted deployments for remote sites, with installation and maintenance procedures documented to keep downtime low.</p>
 <h3 id="-data-pipeline-simplified">🔄 Data Pipeline (Simplified)</h3>
-<p>Audio is streamed from devices to the cloud and mirrored to <strong>NIRD</strong> for durable archiving. Processing runs in batch or near real time, depending on connectivity and use case, and covers detection, classification, and embedding generation. Post-processing aggregates events into site- and time-window summaries, applies quality checks, and calculates indicators. The resulting datasets feed dashboards and public releases, with provenance linking indicators back to raw audio and model versions.</p>
+<p>Audio is streamed from devices to the cloud and mirrored to <strong><a href="https://documentation.sigma2.no/files_storage/nird_lmd.html">NIRD</a></strong> for durable archiving. Processing runs in batch or near real time, depending on connectivity and use case, and covers detection, classification, and embedding generation. Post-processing aggregates events into site- and time-window summaries, applies quality checks, and calculates indicators. The resulting datasets feed dashboards and public releases, with provenance linking indicators back to raw audio and model versions.</p>
 <hr>
 <h2 id="-modelling--indicators">🧮 Modelling &amp; Indicators</h2>
 <h3 id="-detection--classification">🔍 Detection &amp; Classification</h3>
@@ -680,7 +685,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 TABMON — Towards a Transnational Acoustic Biodiversity Monitoring Network - Building Europe's Acoustic Biodiversity Network</p>
+        <p>&copy; 2025 TABMON - Building Europe's Acoustic Biodiversity Network</p>
     </footer>
 </body>
 

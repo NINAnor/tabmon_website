@@ -2,29 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/about/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/news/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/categories/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/team/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/categories/data/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/methods/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/tags/fair/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publications/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/news/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/resources/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/team/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/tags/metadata/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/methods/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ninanor.github.io/tabmon_website/tags/pam/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/publications/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/resources/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/news/2025-09-safe_and_sound/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/tags/standardisation/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/categories/standards/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/tags/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/categories/announcements/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/tags/biodiversity/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/tags/europe/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/tags/launch/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/tags/monitoring/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/categories/project-updates/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ninanor.github.io/tabmon_website/news/2024-04-project-launch/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
