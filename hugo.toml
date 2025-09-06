@@ -6,6 +6,8 @@ enableRobotsTXT = true
 defaultContentLanguage = "en"
 enableEmoji = true
 disableKinds = ["RSS"]
+canonifyURLs = true
+relativeURLs = false
 
 [markup]
   [markup.goldmark]
