@@ -38,7 +38,7 @@ Expert in biodiversity conservation and ecological research methods.</p>
 <div class="team-member">
 <img src="../images/julia.png" alt="Julia Wiel" class="member-photo">
 <div class="member-info">
-<h4>Julia Reisser</h4>
+<h4>Julia Wiel</h4>
 <p><strong>Research Scientist</strong><br>
 Specialist in ecological data analysis and biodiversity monitoring techniques.</p>
 </div>
@@ -82,7 +82,7 @@ Head of Theoretical & Computational Ecology, expert in biodiversity modeling and
 <div class="team-member">
 <img src="../images/cynthia.jpg" alt="Cynthia Barile" class="member-photo">
 <div class="member-info">
-<h4>Cynthia Tedore</h4>
+<h4>Cynthia Barile</h4>
 <p><strong>Postdoctoral researcher</strong><br>
 Specialist in computational ecology and biodiversity data analysis.</p>
 </div>
@@ -104,7 +104,7 @@ Leading expert in bioacoustics and AI for environmental monitoring.</p>
 <div class="team-member">
 <img src="../images/corentin.jpeg" alt="Corentin Bernard" class="member-photo">
 <div class="member-info">
-<h4>Corentin Nelias</h4>
+<h4>Corentin Bernard</h4>
 <p><strong>Postdoctoral researcher</strong><br>
 Specialist in acoustic signal processing and machine learning algorithms.</p>
 </div>

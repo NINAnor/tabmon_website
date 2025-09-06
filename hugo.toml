@@ -1,4 +1,4 @@
-baseURL = "https://ninanor.github.io/tabmon_website/"
+baseURL = "https://tabmon-eu.nina.no/"
 languageCode = "en"
 title = "TABMON"
 paginate = 10
