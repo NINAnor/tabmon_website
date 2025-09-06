@@ -21,7 +21,7 @@ TABMON brings together Europe's leading experts in **acoustic ecology**, **artif
 <img src="../images/ben.png" alt="Benjamin Cretois" class="member-photo">
 <div class="member-info">
 <h4>Benjamin Cretois</h4>
-<p><strong>Principal Investigator & Project Coordinator</strong><br>
+<p><strong>Project Coordinator & Research Scientist</strong><br>
 Research Scientist specializing in bioacoustics and AI applications for biodiversity monitoring.</p>
 </div>
 </div>
@@ -39,7 +39,7 @@ Expert in biodiversity conservation and ecological research methods.</p>
 <img src="../images/julia.png" alt="Julia Wiel" class="member-photo">
 <div class="member-info">
 <h4>Julia Wiel</h4>
-<p><strong>Research Scientist</strong><br>
+<p><strong>PhD Student</strong><br>
 Specialist in ecological data analysis and biodiversity monitoring techniques.</p>
 </div>
 </div>
@@ -97,7 +97,7 @@ Specialist in computational ecology and biodiversity data analysis.</p>
 <div class="member-info">
 <h4>Hervé Glotin</h4>
 <p><strong>Professor</strong><br>
-Leading expert in bioacoustics and AI for environmental monitoring.</p>
+Expert in bioacoustics and AI for environmental monitoring.</p>
 </div>
 </div>
 
