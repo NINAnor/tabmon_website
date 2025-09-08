@@ -89,6 +89,19 @@ Specialist in computational ecology and biodiversity data analysis.</p>
 </div>
 </div>
 
+### 🇬🇧 Imperial College London
+
+<div class="team-section">
+<div class="team-member">
+<img src="../images/sarab.png" alt="Sarab Sethi" class="member-photo">
+<div class="member-info">
+<h4>Sarab Sethi</h4>
+<p><strong>Assistant Professor</strong><br>
+Expert in acoustic monitoring technology and biodiversity sensing systems.</p>
+</div>
+</div>
+</div>
+
 ### 🇫🇷 University of Toulon (LIS)
 
 <div class="team-section">
@@ -175,8 +188,6 @@ Specialist in soundscape ecology and acoustic monitoring methodologies.</p>
 - **Sovon Vogelonderzoek Nederland** (Netherlands)  
 - **Tilburg University – Dept. of Cognitive Science & AI** (Netherlands)  
 - **UvA – Institute for Biodiversity & Ecosystem Dynamics (IBED), Dept. of Theoretical & Computational Ecology (TCE)** (Netherlands)
-
-**Collaborators**
 - **Imperial College London** (Bugg acoustic device development and deployment support).
 
 **Funding & duration**
