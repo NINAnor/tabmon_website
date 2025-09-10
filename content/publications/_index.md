@@ -28,7 +28,19 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ---
 
-## Master & Bachelor thesis
+## 📚 Press release featuring TABMON
+
+
+**Microfoons houden 'oortje' in het zeil in de Oostvaarderplassen** by Omroep Flevoland editorial team, 06 of April 2025. Available on [www.omroepflevoland.nl](https://www.omroepflevoland.nl/nieuws/422192/microfoons-houden-oortje-in-het-zeil-in-de-oostvaarderplassen)
+
+**Digitaal monitoringsonderzoek in Oostvaardersplassen** by Douwe Brouwer, 04 of April 2025. Available on [www.boswachtersblog.nl](https://www.boswachtersblog.nl/oostvaardersplassen/2025/04/04/digitaal-monitoringsonderzoek-in-oostvaardersplassen/).
+
+**Sounds of European nature to be mapped by automatic audio monitoring** by Wiktoria Tunska, 07 August 2024. Available on the [Imperial College London website](https://www.imperial.ac.uk/news/255333/sounds-european-nature-mapped-automatic-audio/).
+
+
+---
+
+## 🎓 Master & Bachelor thesis
 
 Stijn Geukes (UvA), thesis title: "Diurnal and spring-summer soundscape dynamics in Dutch habitats" [In progress]
 

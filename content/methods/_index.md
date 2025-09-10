@@ -28,9 +28,9 @@ WP2 turns audio into ecological information. Model inference pipelines detect sp
 
 *Figure: Active learning pipeline for species detection and classification in acoustic monitoring data*
 
-### 🏛️ WP3 — Policy Integration & Outreach
+### 🏛️ WP3 — Data Integration and EBV Showcase
 
-WP3 focuses on making outputs usable. It assembles synthesis products and technical reports that explain methods, assumptions, and limitations. Interactive dashboards present deployments, data coverage, and headline indicators with enough context to interpret trends. The team engages with competent authorities and programme owners to align indicators with national reporting requirements and to ensure interoperability with ongoing monitoring.
+**Integrating information from digital sensors with observations from traditional monitoring methods is not straightforward.** Automated acoustic monitoring with digital sensors provides high-frequency observations without observer disturbance, may detect the same individual multiple times, and adds levels of uncertainty to species detections (through AI algorithms). In contrast, human observations are usually restricted to a few sampling dates, aim to record the same individual only once, and provide little information on the uncertainty of species identification. In WP3, we focus on integrating such diverse and heterogeneous data into harmonized and standardized EBV data products. This requires developing standards and protocols for integrating acoustic observations into existing data portals and to explore tools and models for comparing (and combining) them with traditional monitoring data.
 
 ---
 
