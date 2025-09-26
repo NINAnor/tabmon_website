@@ -21,7 +21,7 @@ TABMON brings together Europe's leading experts in **acoustic ecology**, **artif
 <img src="../images/ben.png" alt="Benjamin Cretois" class="member-photo">
 <div class="member-info">
 <h4>Benjamin Cretois</h4>
-<p><strong>Project Coordinator & Research Scientist</strong><br>
+<p><strong>Project leader & Research Scientist</strong><br>
 Research Scientist specializing in bioacoustics and AI applications for biodiversity monitoring.</p>
 </div>
 </div>

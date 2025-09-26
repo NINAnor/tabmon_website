@@ -14,7 +14,7 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ## 🎓 Peer-Reviewed Articles
 
-*Publications are currently in preparation and will be listed here as they become available.*
+McEwen, B., Bernard, C. & Stowell, D. Stratified Active Learning for Spatiotemporal Generalisation in Large-Scale Bioacoustic Monitoring. 2025.09.01.673472 Preprint at https://doi.org/10.1101/2025.09.01.673472 (2025)
 
 ---
 
