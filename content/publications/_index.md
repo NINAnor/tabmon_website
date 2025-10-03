@@ -14,11 +14,20 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ## 🎓 Peer-Reviewed Articles
 
+*Soon more to come!*
+
+
+## 🎓 Pre-prints
+
 McEwen, B., Bernard, C. & Stowell, D. Stratified Active Learning for Spatiotemporal Generalisation in Large-Scale Bioacoustic Monitoring. 2025.09.01.673472 Preprint at https://doi.org/10.1101/2025.09.01.673472 (2025)
 
 ---
 
-## 🗣️ Talks and selected press
+## 🗣️ Talks and posters
+
+*Ben McEwen* (2025). **Active Sampling for Data Efficient Large Scale Bioacoustic Monitoring**. *International Bioacoustic Congress (IBAC)** from the 7-12 of September in Kerteminde, Denmark.
+
+*Corentin Bernard, Ben McEwen, Benjamin Cretois, Hervé Glotin, Dan Stowell, Ricard Marxer (2025)*. **Data-driven Sampling Strategies for Fine-Tuning Bird Detection Models**. 3rd Emerging Bioacousticians' Days from the 24.06.2025 to 26.06.2025 in Vernon, France.
 
 **Standardization of Passive Acoustic Monitoring with CamTrap DP**: [Julia Wiel](/team/) gave an introduction to our work on working towards a common standard for Passive Acoustic Monitoring (PAM). The talk is available on [Youtube](https://www.youtube.com/watch?v=Rpw3lFxD-Q4)
 
