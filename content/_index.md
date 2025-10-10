@@ -35,7 +35,8 @@ Our team is composed of recognized researchers specialised in different areas, f
 ## 🏛️ Project Leadership
 
 > **Coordinator:** Norwegian Institute for Nature Research (NINA)  
-> **Project leads:** [Benjamin Cretois](/team/) & [Carolyn Rosten](/team/) (NINA)  
+> **Project lead:** [Benjamin Cretois](/team/)
+> **Project administrator:** [Carolyn Rosten](/team/) (NINA)  
 > **Funding:** Biodiversa+ (with national agencies)  
 > **Duration:** **2024–2027**  
 > **Countries (current focus):** Norway, Netherlands, France, Spain  

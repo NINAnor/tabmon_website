@@ -19,6 +19,8 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ## 🎓 Pre-prints
 
+Bernard, C., McEwen, B., Cretois, B., Glotin, H., Stowell, D., & Marxer, R. (2025). Data-driven Sampling Strategies for Fine-Tuning Bird Detection Models. bioRxiv, 2025-10. Preprint at https://www.biorxiv.org/content/10.1101/2025.10.02.679964v1 (2025)
+
 McEwen, B., Bernard, C. & Stowell, D. Stratified Active Learning for Spatiotemporal Generalisation in Large-Scale Bioacoustic Monitoring. 2025.09.01.673472 Preprint at https://doi.org/10.1101/2025.09.01.673472 (2025)
 
 ---
