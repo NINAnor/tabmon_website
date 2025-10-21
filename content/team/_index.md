@@ -69,16 +69,6 @@ Expert in computational bioacoustics and machine learning for wildlife monitorin
 
 ### 🇳🇱 University of Amsterdam (UvA)
 
-<div class="team-section">
-<div class="team-member">
-<img src="../images/team/daniel.jpg" alt="Daniel Kissling" class="member-photo">
-<div class="member-info">
-<h4>Daniel Kissling</h4>
-<p><strong>Professor</strong><br>
-Head of Theoretical & Computational Ecology, expert in biodiversity modeling and ecosystem dynamics.</p>
-</div>
-</div>
-
 <div class="team-member">
 <img src="../images/team/cynthia.jpg" alt="Cynthia Barile" class="member-photo">
 <div class="member-info">
@@ -86,6 +76,16 @@ Head of Theoretical & Computational Ecology, expert in biodiversity modeling and
 <p><strong>Postdoctoral researcher</strong><br>
 Specialist in computational ecology and biodiversity data analysis.</p>
 </div>
+</div>
+</div>
+
+<div class="team-section">
+<div class="team-member">
+<img src="../images/team/daniel.jpg" alt="Daniel Kissling" class="member-photo">
+<div class="member-info">
+<h4>Daniel Kissling</h4>
+<p><strong>Professor</strong><br>
+Head of Theoretical & Computational Ecology, expert in biodiversity modeling and ecosystem dynamics.</p>
 </div>
 </div>
 
@@ -104,6 +104,15 @@ Expert in acoustic monitoring technology and biodiversity sensing systems.</p>
 
 ### 🇫🇷 University of Toulon (LIS)
 
+<div class="team-member">
+<img src="../images/team/corentin.jpeg" alt="Corentin Bernard" class="member-photo">
+<div class="member-info">
+<h4>Corentin Bernard</h4>
+<p><strong>Postdoctoral researcher</strong><br>
+Specialist in acoustic signal processing and machine learning algorithms.</p>
+</div>
+</div>
+
 <div class="team-section">
 <div class="team-member">
 <img src="../images/team/herve.jpg" alt="Hervé Glotin" class="member-photo">
@@ -114,20 +123,12 @@ Expert in bioacoustics and AI for environmental monitoring.</p>
 </div>
 </div>
 
-<div class="team-member">
-<img src="../images/team/corentin.jpeg" alt="Corentin Bernard" class="member-photo">
-<div class="member-info">
-<h4>Corentin Bernard</h4>
-<p><strong>Postdoctoral researcher</strong><br>
-Specialist in acoustic signal processing and machine learning algorithms.</p>
-</div>
-</div>
 
 <div class="team-member">
 <img src="../images/team/ricard.jpg" alt="Ricard Marxer" class="member-photo">
 <div class="member-info">
 <h4>Ricard Marxer</h4>
-<p><strong>Associate Professor</strong><br>
+<p><strong>Full professor</strong><br>
 Expert in audio signal processing and computational methods for bioacoustics.</p>
 </div>
 </div>
