@@ -30,7 +30,7 @@ Research Scientist specializing in bioacoustics and AI applications for biodiver
 <img src="../images/team/carolyn.png" alt="Carolyn Rosten" class="member-photo">
 <div class="member-info">
 <h4>Carolyn Rosten</h4>
-<p><strong>Research Scientist</strong><br>
+<p><strong>Project coordinator & Research Scientist</strong><br>
 Expert in biodiversity conservation and ecological research methods.</p>
 </div>
 </div>
