@@ -14,7 +14,9 @@ concurrency:
   group: "pages"
 
 jobs:
-  build:
+  build-deploy:
+    environment:
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -37,6 +39,10 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
+      - name: deploy to github pages
+        uses: actions/deploy-pages@v4
+
 
   deploy:
     environment:
