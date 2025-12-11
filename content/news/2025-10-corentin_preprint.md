@@ -1,3 +1,13 @@
+---
+title: "Train bird classifier with less data"
+date: 2025-10-15
+draft: false
+description: "A new preprint describing a method to train AI classifiers using less data"
+author: "Benjamin Cretois"
+categories: ["AI", "Data"]
+tags: ["AI", "PAM"]
+---
+
 # 🐦 How to Train Bird Detection Models Smarter, Not Harder
 
 Passive acoustic monitoring is changing the way we keep tabs on bird populations. Networks of microphones now record vast amounts of sound, offering an unprecedented window into ecosystems. But there’s a catch: manually annotating even a tiny fraction of this audio is slow, expensive, and requires expert ears.
