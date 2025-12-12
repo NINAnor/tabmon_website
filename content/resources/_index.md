@@ -35,6 +35,10 @@ The TABMON repository documents and making clearly available all the repositorie
 
 The purpose of this repository is to provide an end-to-end framework from raw field data to inference of essential biodiversity variables (EBVs)
 
+### **TABMON report generator**
+- **Repository:** [https://github.com/NINAnor/tabmon_reporting/tree/main](https://github.com/NINAnor/tabmon_reporting/tree/main)
+
+This repository is used to create the TABMON yearly reports based on the data we collected. Reports are generated per clusters and are available on [Zenodo](https://zenodo.org/records/17899019)
 
 ---
 

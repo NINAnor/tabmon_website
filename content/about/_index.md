@@ -20,7 +20,6 @@ TABMON establishes a **cross-country passive acoustic monitoring** network to co
 - 📡 Deploy and operate a distributed network of autonomous **acoustic recorders** across **Norway, the Netherlands, France, and Spain**
 - 🤖 Develop AI pipelines that convert audio into species/community metrics aligned with **Essential Biodiversity Variables (EBVs)**
 - 🔗 Integrate outputs with national monitoring programmes to **fill reporting gaps** and support evidence-based decisions
-- 📊 Create real-time biodiversity indicators for policy makers and conservation managers
 
 ## 💰 Funding & Context
 
