@@ -19,10 +19,10 @@ Deploy **autonomous acoustic sensors** across a wide latitudinal gradient in Eur
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
-**🔬 100 devices deployed**  
+**🔬 103 devices deployed**  
 From raw audio to species detections, community metrics, and EBV-aligned indicators, with an emphasis on reproducible workflows.
 
-**🌐 15 TeraBytes of high quality acoustic data**  
+**🌐 25+ TeraBytes of high quality acoustic recordings**  
 Data spans **Norway, the Netherlands, France, and Spain**, representing diverse European habitats.
 
 **📊 A team of 14 experts**  
@@ -36,7 +36,7 @@ Our team is composed of recognized researchers specialised in different areas, f
 
 > **Coordinator:** Norwegian Institute for Nature Research (NINA)  
 > **Project lead:** [Benjamin Cretois](/team/)
-> **Project administrator:** [Carolyn Rosten](/team/) (NINA)  
+> **Project administrator:** [Carolyn Rosten](/team/) 
 > **Funding:** Biodiversa+ (with national agencies)  
 > **Duration:** **2024–2027**  
 > **Countries (current focus):** Norway, Netherlands, France, Spain  

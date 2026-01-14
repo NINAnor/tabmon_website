@@ -19,6 +19,8 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ## 🎓 Pre-prints
 
+Cretois, Benjamin, et al. "TABMON–real-time acoustic biodiversity monitoring across Europe." (2026). Preprint on EcoEvoRxiv at [https://ecoevorxiv.org/repository/view/11373/](https://ecoevorxiv.org/repository/view/11373/) 
+
 Bernard, C., McEwen, B., Cretois, B., Glotin, H., Stowell, D., & Marxer, R. (2025). Data-driven Sampling Strategies for Fine-Tuning Bird Detection Models. bioRxiv, 2025-10. Preprint at https://www.biorxiv.org/content/10.1101/2025.10.02.679964v1 (2025)
 
 McEwen, B., Bernard, C. & Stowell, D. Stratified Active Learning for Spatiotemporal Generalisation in Large-Scale Bioacoustic Monitoring. 2025.09.01.673472 Preprint at https://doi.org/10.1101/2025.09.01.673472 (2025)
@@ -41,6 +43,7 @@ McEwen, B., Bernard, C. & Stowell, D. Stratified Active Learning for Spatiotempo
 
 ## 📚 Press release featuring TABMON
 
+Irwin, Aisling. ["'I rarely get outside': scientists ditch fieldwork in the age of AI."](https://www.nature.com/articles/d41586-025-04150-w) Nature 649.8096 (2026): 278-281.
 
 **Microfoons houden 'oortje' in het zeil in de Oostvaarderplassen** by Omroep Flevoland editorial team, 06 of April 2025. Available on [www.omroepflevoland.nl](https://www.omroepflevoland.nl/nieuws/422192/microfoons-houden-oortje-in-het-zeil-in-de-oostvaarderplassen)
 

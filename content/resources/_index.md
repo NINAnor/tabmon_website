@@ -11,7 +11,7 @@ ShowToc: true
 Explore TABMON's **real-time monitoring dashboard** — your comprehensive portal to Europe's acoustic biodiversity network. Our interactive platform provides live insights into data acquisition, device performance, and biodiversity patterns across all monitoring sites.
 
 - **100 sites** are monitored in near real-time
-- **15 TB** of high-quality audio recordings processed
+- **25+ TB** of high-quality audio recordings processed
 - **Near real-time processing** with <24-hour latency from field to dashboard
 
 <div style="font-size: 1.4em; font-weight: 600; text-align: center; margin: 2rem 0; padding: 1.5rem; background: linear-gradient(135deg, rgba(127, 46, 74, 0.1), rgba(32, 0, 59, 0.1)); border-radius: 12px; border: 2px solid rgba(127, 46, 74, 0.2);">
@@ -19,7 +19,13 @@ Explore TABMON's **real-time monitoring dashboard** — your comprehensive porta
 </div>
 
 
+## 📝 Data Annotation Platform
 
+To enhance our AI models and improve biodiversity monitoring, we invite you to contribute to our **data annotation platform**. By labeling audio samples, you help us train more accurate species recognition algorithms.
+
+<div style="font-size: 1.4em; font-weight: 600; text-align: center; margin: 2rem 0; padding: 1.5rem; background: linear-gradient(135deg, rgba(127, 46, 74, 0.1), rgba(32, 0, 59, 0.1)); border-radius: 12px; border: 2px solid rgba(127, 46, 74, 0.2);">
+<strong><a href="https://tabmon-listening-lab.nina.no" style="color: var(--primary-color); text-decoration: none;">📈 Click here to access the TABMON Listening Lab</a></strong> — <em>Help us with data annotation!</em>
+</div>
 
 ---
 
