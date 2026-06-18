@@ -14,14 +14,12 @@ TABMON's scientific output spans multiple disciplines including **acoustic ecolo
 
 ## 🎓 Peer-Reviewed Articles
 
-*Soon more to come!*
+Cretois, B., Rosten, C. M., Wiel, J., Barile, C., McEwen, B., Bernard, C., ... & Sethi, S. (2026). TABMON: Design and deployment of a transnational passive acoustic monitoring network for European birds. Methods in Ecology and Evolution, 17(6), 1867-1879.
 
+Bernard, C., McEwen, B., Cretois, B., Glotin, H., Stowell, D., & Marxer, R. (2026). Data-driven sampling strategies for fine-tuning bird detection models. The Journal of the Acoustical Society of America, 159(6), 4891-4903.
 
 ## 🎓 Pre-prints
 
-Cretois, Benjamin, et al. "TABMON–real-time acoustic biodiversity monitoring across Europe." (2026). Preprint on EcoEvoRxiv at [https://ecoevorxiv.org/repository/view/11373/](https://ecoevorxiv.org/repository/view/11373/) 
-
-Bernard, C., McEwen, B., Cretois, B., Glotin, H., Stowell, D., & Marxer, R. (2025). Data-driven Sampling Strategies for Fine-Tuning Bird Detection Models. bioRxiv, 2025-10. Preprint at https://www.biorxiv.org/content/10.1101/2025.10.02.679964v1 (2025)
 
 McEwen, B., Bernard, C. & Stowell, D. Stratified Active Learning for Spatiotemporal Generalisation in Large-Scale Bioacoustic Monitoring. 2025.09.01.673472 Preprint at https://doi.org/10.1101/2025.09.01.673472 (2025)
 
