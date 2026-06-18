@@ -7,26 +7,37 @@ description: "Building Europe's largest acoustic biodiversity monitoring network
 
 ## 🌍 Building Europe's Acoustic Biodiversity Network
 
-**TABMON** is establishing a **transnational acoustic monitoring network** to turn large-scale soundscape recordings into biodiversity indicators that matter for conservation policy and management. The project harmonises collection, analysis, and integration of acoustic data so results are comparable across countries and programmes.
+**TABMON** — **Towards a Transnational Acoustic Biodiversity Monitoring Network** — establishes a **standardised, cross-country passive acoustic monitoring (PAM) network** to transform large-scale soundscape recordings into policy-relevant biodiversity indicators. We harmonise collection, analysis, and integration of acoustic data across four biogeographic regions so results are directly comparable and actionable for conservation.
 
-### 🎯 Our Mission
+### 🎯 Our Vision
 
-Deploy **autonomous acoustic sensors** across a wide latitudinal gradient in Europe and use **AI** to transform soundscapes into decision-ready indicators. The aim is to **complement existing monitoring** and help fill gaps in reporting to **EU directives** while supporting the **EU Biodiversity Strategy 2030** targets.
+Operationalize a **paneuropean network of autonomous acoustic sensors** and deploy advanced **AI pipelines** to convert soundscapes into **Essential Biodiversity Variables (EBVs)** aligned with global biodiversity frameworks. This approach **complements traditional surveys**, fills critical gaps in reporting for **EU directives** and the **EU Biodiversity Strategy 2030**, and provides high-frequency temporal resolution for early-warning monitoring.
+
+### 💡 Why Acoustic Monitoring Matters
+
+Passive acoustic monitoring offers unique advantages:
+- **Non-invasive, 24/7 monitoring** of nocturnal and cryptic taxa often missed by traditional surveys
+- **Cost-effective scaling** across remote and inaccessible landscapes
+- **High-frequency time series** suitable for phenological tracking and population trend detection
+- **Standardized, comparable data** across multiple biogeographic regions and countries
 
 ---
 
-## 🚀 TABMON in a few numbers
+## 🚀 Network at a Glance
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
-**🔬 103 devices deployed**  
-From raw audio to species detections, community metrics, and EBV-aligned indicators, with an emphasis on reproducible workflows.
+**📡 100+ Autonomous Acoustic Sensors**  
+Deployed across Norway, Netherlands, France, and Spain, providing comprehensive coverage from Arctic to Mediterranean ecosystems.
 
-**🌐 25+ TeraBytes of high quality acoustic recordings**  
-Data spans **Norway, the Netherlands, France, and Spain**, representing diverse European habitats.
+**🤖 AI-Powered Analysis Pipeline**  
+From raw audio to species detections, community metrics, and standardised EBV indicators—all reproducible and validated.
 
-**📊 A team of 14 experts**  
-Our team is composed of recognized researchers specialised in different areas, from AI to field deployment and ecology.
+**🌐 25+ Terabytes of High-Quality Data**  
+Spanning four biogeographic regions with consistent metadata and quality assurance protocols.
+
+**📊 Real-Time Monitoring & Open Science**  
+Live dashboard, transparent workflows, and regular peer-reviewed publications supporting evidence-based conservation.
 
 </div>
 
