@@ -6,6 +6,11 @@ description: "Detailed methodology, work packages, and technical workflows for T
 ShowToc: true
 ---
 
+<div style="text-align: center; margin: 0 0 2rem;">
+<img src="../figures/figure_grant.png" alt="TABMON work packages overview" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 8px 32px rgba(6, 182, 212, 0.15);">
+<p style="font-size: 0.85rem; color: #94A3B8; margin-top: 0.75rem; font-style: italic;">Overview of TABMON's three interconnected work packages — from field deployment to EBV indicators</p>
+</div>
+
 ## 🔬 Technical Overview
 
 TABMON combines **autonomous acoustic sensing**, **AI-based analysis**, and **standardised ecological workflows** to turn soundscapes into comparable biodiversity indicators across countries. The framework covers everything from site selection and device operations to data logistics, model inference, uncertainty handling, and indicator reporting aligned with policy needs.
@@ -18,13 +23,21 @@ TABMON combines **autonomous acoustic sensing**, **AI-based analysis**, and **st
 
 WP1 designs and operates the field network. Sites are chosen along key biogeographic and land-use gradients to capture meaningful spatial and temporal variation. Devices are provisioned to consistent specifications and deployed with clear field protocols so recordings are comparable across partners. Quality assurance and control are applied from the moment audio is captured—covering device health, clock drift, gain settings, and basic signal diagnostics. Data are transferred from the cloud to secure archival storage (NIRD) on a managed schedule, ensuring traceability from raw audio to downstream analyses.
 
+<div style="text-align: center; margin: 2rem 0;">
+<img src="../figures/device_setup.jpg" alt="TABMON device setup — Bugg acoustic sensors with solar panels deployed across European field sites" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 8px 32px rgba(6, 182, 212, 0.15);">
+<p style="font-size: 0.85rem; color: #94A3B8; margin-top: 0.75rem; font-style: italic;">TABMON field deployment: Bugg acoustic sensors powered by solar panels across diverse European habitats</p>
+</div>
+
 In WP1 we are also working towards a standard Passive Acoustic Monitoring (PAM) metadata standard to make acoustic data easily shareable. [More information here](https://wildlabs.net/discussion/safe-and-sound-standard-bioacoustic-data).
 
 ### 🤖 WP2 — AI to Essential Biodiversity Variables
 
 WP2 turns audio into ecological information. Model inference pipelines detect species and characterise community patterns; embeddings and acoustic features support both supervised and semi-supervised analyses. Uncertainty is treated explicitly: confidence from detectors/classifiers is carried forward and reflected in all derived metrics. Outputs are aggregated into indicators compatible with **Essential Biodiversity Variables (EBVs)**, making results comparable across sites and years and suitable for integration with existing monitoring schemes.
 
-<img src="../figures/active_learning.png" alt="Active Learning Pipeline" style="width: 60%; max-width: 500px; height: auto; display: block; margin: 1rem auto;">
+<div style="text-align: center; margin: 2rem 0;">
+<img src="../figures/classification_pipeline_setup.jpg" alt="TABMON classification pipeline — from audio segments through BirdNET to EBV estimation" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 8px 32px rgba(6, 182, 212, 0.15);">
+<p style="font-size: 0.85rem; color: #94A3B8; margin-top: 0.75rem; font-style: italic;">Data pipeline & annotation workflow: from raw audio through BirdNET classification to Essential Biodiversity Variables</p>
+</div>
 
 *Figure: Active learning pipeline for species detection and classification in acoustic monitoring data*
 
@@ -43,6 +56,11 @@ TABMON uses cost-effective **real-time acoustic recorders (Bugg)** that can stre
 ### 🔄 Data Pipeline (Simplified)
 
 Audio is streamed from devices to the cloud and mirrored to **[NIRD](https://documentation.sigma2.no/files_storage/nird_lmd.html)** for durable archiving. Processing runs in batch or near real time, depending on connectivity and use case, and covers detection, classification, and embedding generation. Post-processing aggregates events into site- and time-window summaries, applies quality checks, and calculates indicators. The resulting datasets feed dashboards and public releases, with provenance linking indicators back to raw audio and model versions.
+
+<div style="text-align: center; margin: 2rem 0;">
+<img src="../figures/server_setup.jpg" alt="TABMON server architecture — from Bugg devices through cloud storage to NIRD and the TABMON Dashboard" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 8px 32px rgba(6, 182, 212, 0.15);">
+<p style="font-size: 0.85rem; color: #94A3B8; margin-top: 0.75rem; font-style: italic;">Server infrastructure: Bugg devices stream to Google Cloud, mirrored to SIGMA2 NIRD for archival, with real-time monitoring via the TABMON Dashboard</p>
+</div>
 
 ---
 

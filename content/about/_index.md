@@ -72,25 +72,33 @@ Passive acoustic monitoring is uniquely suited for paneuropean biodiversity asse
 
 Our network strategically spans four European biogeographic regions:
 
-### 🇳🇴 **Norway**: Arctic & Boreal Ecosystems
-- High-latitude acoustic communities shaped by extreme seasonality
-- Key monitoring region for Arctic biodiversity and climate change impacts
-- Covers boreal forests, alpine, and coastal habitats
+<div style="text-align: center; margin: 1.5rem 0;">
+<img src="../figures/tabmon_sites.jpg" alt="TABMON monitoring clusters across Europe — map showing device locations from Norway to Spain" style="max-width: 600px; width: 100%; height: auto; border-radius: 14px; box-shadow: 0 8px 32px rgba(6, 182, 212, 0.15);">
+<p style="font-size: 0.85rem; color: #94A3B8; margin-top: 0.75rem; font-style: italic;">TABMON monitoring clusters across Europe — circle colour indicates the number of devices per site</p>
+</div>
 
-### 🇳🇱 **Netherlands**: Temperate Lowland & Coastal Systems
-- Intensive agricultural and managed landscapes
-- Coastal wetlands and freshwater ecosystems
-- Densely populated region with strong human disturbance gradients
-
-### 🇫🇷 **France**: Mediterranean & Temperate Transition
-- Mediterranean transition zones with unique acoustic biodiversity
-- Temperate and transition ecosystems in southern France
-- Captures latitudinal and elevational variation
-
-### 🇪🇸 **Spain**: Mediterranean & Montane Ecosystems
-- Mediterranean scrubland, forests, and montane regions
-- Represents southern European acoustic diversity hotspots
-- Key region for bird migration monitoring
+<div class="country-row">
+<div class="country-card">
+<span class="flag">🇳🇴</span>
+<h4>Norway</h4>
+<p>Arctic & boreal ecosystems — extreme seasonality, boreal forests, alpine and coastal habitats</p>
+</div>
+<div class="country-card">
+<span class="flag">🇳🇱</span>
+<h4>Netherlands</h4>
+<p>Temperate lowland & coastal systems — agricultural landscapes, wetlands, human disturbance gradients</p>
+</div>
+<div class="country-card">
+<span class="flag">🇫🇷</span>
+<h4>France</h4>
+<p>Mediterranean & temperate transition — unique acoustic biodiversity, latitudinal and elevational variation</p>
+</div>
+<div class="country-card">
+<span class="flag">🇪🇸</span>
+<h4>Spain</h4>
+<p>Mediterranean & montane ecosystems — scrubland, forests, bird migration hotspot</p>
+</div>
+</div>
 
 ## 🔬 Scientific Approach
 
@@ -104,6 +112,35 @@ TABMON follows a **hierarchical, reproducible framework**:
 6. **Integration:** Connection with national programmes and international data portals
 7. **Validation & Communication:** Peer-reviewed publications and transparent methodology reporting
 
+## 📅 Project Milestones
+
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">2024</div>
+<h4>Project Launch & Network Deployment</h4>
+<p>First devices deployed across 4 countries; field protocols and metadata standards established</p>
+</div>
+<div class="timeline-item">
+<div class="timeline-date">2025</div>
+<h4>Full-Scale Data Collection & AI Development</h4>
+<p>100+ sensors operational; 25+ TB collected; active learning and classification pipelines developed; first peer-reviewed publications</p>
+</div>
+<div class="timeline-item">
+<div class="timeline-date">2026</div>
+<h4>Analysis, Integration & Publication</h4>
+<p>TABMON paper published in Methods in Ecology and Evolution; JASA paper on sampling strategies; dashboard and reporting infrastructure operational</p>
+</div>
+<div class="timeline-item">
+<div class="timeline-date">2027</div>
+<h4>Synthesis & Legacy</h4>
+<p>Final EBV indicators delivered; integration with national monitoring programmes; open data release and framework documentation for future adoption</p>
+</div>
+</div>
+
 ---
 
-*Ready to dive deeper? 🔍 Explore our [methods and technical approach](/methods/), check out the [latest news and publications](/news/), or access our [resources and live dashboard](/resources/).*
+<div style="text-align: center; margin: 2rem 0;">
+<a href="/methods/" class="btn" style="margin: 0.4rem;">Methods & Technical Approach</a>
+<a href="/news/" class="btn" style="margin: 0.4rem; background: linear-gradient(135deg, #059669, #10B981);">News & Publications</a>
+<a href="/resources/" class="btn" style="margin: 0.4rem; background: linear-gradient(135deg, #0A192F, #112240);">Resources & Dashboard</a>
+</div>
