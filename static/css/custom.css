@@ -517,6 +517,35 @@ blockquote cite::before {
 }
 
 /* ═══════════════════════════════════════════════
+   GLOBAL OVERRIDES — Reset heading styles inside
+   custom card/component containers
+   ═══════════════════════════════════════════════ */
+.pub-card h3,
+.pub-card h4,
+.resource-card h3,
+.resource-card h4,
+.repo-card h3,
+.repo-card h4,
+.country-card h3,
+.country-card h4,
+.resource-card-content h3,
+.resource-card-content h4 {
+    background: none !important;
+    border: none !important;
+    border-left: none !important;
+    padding: 0 !important;
+    margin: 0 0 0.5rem !important;
+    border-radius: 0 !important;
+}
+
+.pub-card p,
+.resource-card p,
+.repo-card p,
+.country-card p {
+    margin-bottom: 0.5rem;
+}
+
+/* ═══════════════════════════════════════════════
    PUBLICATIONS PAGE — Card Layout
    ═══════════════════════════════════════════════ */
 
