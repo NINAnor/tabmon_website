@@ -30,5 +30,3 @@ Large-scale, standardised biodiversity data are essential for tracking progress 
 ## Read the paper
 
 The published version is available in *Methods in Ecology and Evolution*: [doi.org/10.1111/2041-210x.70308](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70308)
-
-A preprint is freely available on EcoEvoRxiv: [ecoevorxiv.org/repository/view/11373/](https://ecoevorxiv.org/repository/view/11373/)

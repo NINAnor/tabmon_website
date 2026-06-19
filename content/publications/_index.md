@@ -27,6 +27,10 @@ McEwen, B., Bernard, C. & Stowell, D. Stratified Active Learning for Spatiotempo
 
 ## 🗣️ Talks and posters
 
+*Benjamin Cretois* (2026). Using python for monitoring biodiversity in near real time. https://hdl.handle.net/11250/5523413
+
+*Benjamin Cretois* (2026). How can AI enable large scale monitoring of biodiversity?. https://hdl.handle.net/11250/5517655
+
 *Ben McEwen* (2025). **Active Sampling for Data Efficient Large Scale Bioacoustic Monitoring**. *International Bioacoustic Congress (IBAC)** from the 7-12 of September in Kerteminde, Denmark.
 
 *Corentin Bernard, Ben McEwen, Benjamin Cretois, Hervé Glotin, Dan Stowell, Ricard Marxer (2025)*. **Data-driven Sampling Strategies for Fine-Tuning Bird Detection Models**. 3rd Emerging Bioacousticians' Days from the 24.06.2025 to 26.06.2025 in Vernon, France.
