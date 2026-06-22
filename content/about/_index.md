@@ -32,13 +32,13 @@ The network spans from the **Arctic (Norway)** to the **Mediterranean (Spain)**,
 - French and Spanish partners
 
 **Lead Institution:** Norwegian Institute for Nature Research ([NINA](https://www.nina.no/))  
-**Project Lead:** Benjamin Cretois  
+**Project Lead:** [Benjamin Cretois](https://www.nina.no/Kontakt/Ansatte/Ansattinformasjon.aspx?AnsattID=15849)  
 **Duration:** 2024–2027  
 
 **Key Partners Include:**
 - University of Amsterdam | Tilburg University | Naturalis (Netherlands)
 - Statistics Netherlands (CBS) | Sovon (Netherlands)
-- Universitat de Lleida (CTFC) (Spain)
+- Centre de Ciència i Tecnologia Forestal de Catalunya (CTFC) (Spain)
 - Université de Toulon / Laboratory of Information Systems (LIS) (France)
 - Research institutes and universities across all participating countries
 
@@ -47,7 +47,7 @@ The network spans from the **Arctic (Norway)** to the **Mediterranean (Spain)**,
 Passive acoustic monitoring is uniquely suited for paneuropean biodiversity assessment:
 
 ### 🌙 Nocturnal & Cryptic Species
-- Captures vocal activity of birds, amphibians, insects, and mammals **24/7**, especially during peak calling periods
+- Captures vocal activity of birds **24/7**, especially during peak calling periods
 - Reaches species and habitats **inaccessible to human observers**
 
 ### ⏰ High Temporal Resolution

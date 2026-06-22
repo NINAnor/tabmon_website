@@ -16,7 +16,7 @@ description: "Peer-reviewed publications, conference presentations, and technica
   <div class="pub-stat"><span class="pub-stat-num">4</span><span class="pub-stat-label">Press Features</span></div>
 </div>
 
-## Peer-Reviewed Articles
+## Peer-Reviewed Articles and reports
 
 <div class="pub-card">
   <div class="pub-year">2026</div>
@@ -39,6 +39,18 @@ description: "Peer-reviewed publications, conference presentations, and technica
     <a href="https://pubs.aip.org/asa/jasa/article/159/6/4891/3393438" class="pub-link" target="_blank">Read paper <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg></a>
   </div>
 </div>
+
+<div class="pub-card">
+  <div class="pub-year">2026</div>
+  <div class="pub-content">
+    <span class="pub-badge journal">Report</span>
+    <div class="pub-title">Safe and Sound Project Report: Is Camtrap DP a suitable standard for (bio)acoustic data?</div>
+    <div class="pub-authors">Julia Algeïa Marie-Antoinette Wiel, Sanne Govaert, Benjamin Cretois, & Peter Desmet</div>
+    <div class="pub-venue"><em>Norsk institutt for naturforskning (NINA)</em>, Report No. 2731</div>
+    <a href="https://hdl.handle.net/11250/5343743" class="pub-link" target="_blank">Read report <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg></a>
+  </div>
+</div>
+
 
 ## Preprints
 
